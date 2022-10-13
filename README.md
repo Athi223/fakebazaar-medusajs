@@ -1,8 +1,18 @@
 # Fakebazaar
 
-This is a fake E-commerce website built with MedusaJS and NextJS.
+![Fakebazaar](https://i.ibb.co/gFGScBW/fakebazaar.png)
 
-## Setup
+## About
+
+### Particiants
+
+Atharv - @Athi223
+
+### Description
+
+A storefront built using **MedusaJS** + **NextJS**, deployed on **Heroku**(_backend_) + **Netlify**(_frontend_) with a small touch of _Upstash_ for **Redis**
+
+### Setup
 
 Prerequisites:
 
@@ -16,7 +26,7 @@ Run the development server:
 
 `npm run dev`
 
-## Screenshots
+### Preview
 
 ![Home Page](https://i.ibb.co/xqwzw4n/Homepage.png)
 ![Product Page](https://i.ibb.co/TgLNB0S/Productpage.png)
