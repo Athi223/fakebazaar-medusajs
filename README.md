@@ -12,6 +12,10 @@ Atharv - @Athi223
 
 A storefront built using **MedusaJS** + **NextJS**, deployed on **Heroku**(_backend_) + **Netlify**(_frontend_) with a small touch of _Upstash_ for **Redis**
 
+### Demo
+
+[FakeBazaar](https://fakebazaar-medusajs.netlify.app)
+
 ### Setup
 
 Prerequisites:
